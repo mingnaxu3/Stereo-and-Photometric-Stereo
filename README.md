@@ -1,1 +1,0 @@
-# Stereo-and-Photometric-Stereo
